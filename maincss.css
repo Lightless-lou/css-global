@@ -800,7 +800,7 @@ li.fa_separator {
     margin: auto;
     display:flex;
     margin-top: 50px;
-    width: 1000px;
+    width: 100%;
     text-align: center;
     position: relative;
     justify-content: space-between;
