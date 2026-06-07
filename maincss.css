@@ -1935,7 +1935,7 @@ ttc:hover {
     opacity: .5;
     position: relative;
     z-index: 1;
-    width: 1020px;
+    width: 100%;
     text-align: center;
     text-transform: lowercase;
 }
@@ -1948,7 +1948,7 @@ ttc:hover {
     backdrop-filter: blur(4px);
     font-size: var(--size3);
     display: flex;
-    width: 1020px;
+    width: 100%;
     border-radius: 4px;
     flex-wrap: wrap;
     flex-direction: row;
@@ -1960,7 +1960,7 @@ ttc:hover {
     margin-left:6px;
     border-radius:4px;
     object-fit:cover;
-    filter:grayscale(1) contrast(.6) brightness(.8);
+    filter:grayscale(0) contrast(.6) brightness(.8);
 }
 .cinqeel_droite_top{
     display:flex;
@@ -1981,14 +1981,14 @@ ttc:hover {
 .cinqeel_gauche {
     display: flex;
     flex-wrap: wrap;
-    width: 703px;
-    height: 208px;
+    width: 70%;
+    height: fit-content;
 }
 
 
 .cinqeel_droite {
-    width: 317px;
-    height: 237px;
+    width: 30%;
+    height: fit-content;
     padding: 4px;
 }
 
