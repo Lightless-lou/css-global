@@ -2076,7 +2076,7 @@ ttc:hover {
 }
 
 
-#logged_in_user_list {
+#logged_in_user_list, #whosbirthday_today {
     display: block;
     text-align: justify;
     background: var(--bg2);
@@ -2090,19 +2090,19 @@ ttc:hover {
 }
 
 
-#logged_in_user_list a {
+#logged_in_user_list a, #whosbirthday_today a {
     font-size: var(--size2);
     position: relative;
 }
 
 
-#logged_in_user_list strong{
+#logged_in_user_list strong, #whosbirthday_today strong {
       line-height:18px;
 }
 
 
 
-#users_were_online {
+#users_were_online, #whosbirthday_today {
     background: var(--bg2);
     padding: 6px;
     text-align:justify;
