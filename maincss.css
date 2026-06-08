@@ -2050,7 +2050,7 @@ ttc:hover {
     width:100%;
 }
 
-.cinqeel_gauche_g, .cinqeel_gauche_d { display:flex; width:50%; height:fit-content;}
+.cinqeel_gauche_g, .cinqeel_gauche_d { display:flex; flex-wrap: wrap; width:50%; height:fit-content;}
 
 .cinqeel_sstitre2, .cinqeel_sstitre3 {
  background: -webkit-linear-gradient(55deg, var(--color1), var(--color2));
