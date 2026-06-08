@@ -2022,7 +2022,7 @@ ttc:hover {
     position:relative;
     width: 53px;
     height: 33px;
-    right: 0;
+    right: 0px;
     object-fit: cover;
     border-radius: 0px 4px 4px 0px;
 }
@@ -2050,7 +2050,7 @@ ttc:hover {
     width:100%;
 }
 
-.cinqeel_gauche_g, .cinqeel_gauche_d { display:flex; flex-wrap: wrap; width:100%; height:fit-content;}
+.cinqeel_gauche_g, .cinqeel_gauche_d { display:flex; flex-wrap: wrap; width:50%; height:fit-content;}
 
 .cinqeel_sstitre2, .cinqeel_sstitre3 {
  background: -webkit-linear-gradient(55deg, var(--color1), var(--color2));
