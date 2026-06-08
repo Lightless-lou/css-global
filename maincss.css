@@ -1955,7 +1955,7 @@ ttc:hover {
     font-family: var(--font2);
     font-size: 22px;
     align-items: center;
-    margin: 30px;
+    margin: 20px;
     justify-content: flex-end;
     flex-direction: column;
 }
@@ -1973,7 +1973,7 @@ ttc:hover {
     font-size: 22px;
     align-items: center;
     justify-content: flex-end;
-    margin: 30px;
+    margin: 20px;
     flex-direction: column;
 }
 
