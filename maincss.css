@@ -1948,65 +1948,6 @@ ttc:hover {
 }
 
 
-.cinqeel_groups2 {
-    letter-spacing: 1px;
-    display: flex;
-    background: var(--bg2);
-    height: 24px;
-    width: 100%;
-    border-radius: 4px;
-    font-family: var(--font3);
-    margin-bottom: 5px;
-    font-size: var(--size4);
-    color: var(--purewhite);
-    text-transform: uppercase;
-    font-weight: var(--weight2);
-    transition: 1s;
-    justify-content: center;
-    flex-direction: row;
-    align-items: center;
-}
-
-
-.cinqeel_groups2:hover {
-    background: var(--transp2);
-    transition: 1s;
-}
-
-
-.cinqeel_groups2 i {
-    color: #fff;
-    position: absolute;
-    padding: 3px;
-    margin-left: 5px;
-}
-
-
-a.heaven, a.purgatory, a.hell {
-    border-radius: 4px 0px 0px 4px;
-    margin-left: -280px;
-    position: absolute;
-    width: 45px;
-    height: 24px;
-    font-size: 12px;
-}
-
-
-a.heaven {
-    background: -webkit-linear-gradient(180deg, rgba(0,0,0,0) 30%, var(--heaven));
-}
-
-
-a.purgatory {
-    background: -webkit-linear-gradient(180deg, rgba(0,0,0,0) 30%, var(--purgatory));
-}
-
-
-a.hell {
-    background: -webkit-linear-gradient(180deg, rgba(0,0,0,0) 30%, var(--hell));
-}
-
-
 #QEEL_messages {
     display: flex;
     padding: 4px;
@@ -2085,7 +2026,7 @@ a.hell {
     position:relative;
     width: 53px;
     height: 33px;
-    left: 90%;
+    right: 30%;
     object-fit: cover;
     border-radius: 0px 4px 4px 0px;
 }
@@ -2142,7 +2083,7 @@ a.hell {
     text-align: justify;
     background: var(--bg2);
     padding: 6px;
-    width: 50%;
+    width: 100%;
     height: 100px;
     border-radius: 4px;
     line-height:0px;
