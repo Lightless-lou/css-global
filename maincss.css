@@ -2023,7 +2023,7 @@ ttc:hover {
     position:relative;
     width: 53px;
     height: 40px;
-    left: 200%;
+    left: 300px;
     object-fit: cover;
     border-radius: 0px 4px 4px 0px;
 }
