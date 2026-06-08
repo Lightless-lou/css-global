@@ -2019,7 +2019,7 @@ ttc:hover {
 
 
 #avatar_dernier_membre img {
-    position:absolute;
+    position:relative;
     width: 53px;
     height: 40px;
     right: 10px;
