@@ -2047,7 +2047,6 @@ ttc:hover {
 .cinqeel_gauche_bot {
     display: flex;
     flex-wrap: wrap;
-    flex-direction:row;
     width:100%;
 }
 
