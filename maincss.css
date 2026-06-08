@@ -2022,7 +2022,7 @@ ttc:hover {
     position:relative;
     width: 53px;
     height: 33px;
-    right: 0px;
+    right: 0px!important;
     object-fit: cover;
     border-radius: 0px 4px 4px 0px;
 }
