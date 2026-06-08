@@ -1955,7 +1955,7 @@ ttc:hover {
     font-family: var(--font2);
     font-size: 22px;
     align-items: center;
-    margin: 20px;
+    margin: 30px;
     justify-content: flex-end;
     flex-direction: column;
 }
@@ -1973,7 +1973,7 @@ ttc:hover {
     font-size: 22px;
     align-items: center;
     justify-content: flex-end;
-    margin: 20px;
+    margin: 30px;
     flex-direction: column;
 }
 
@@ -2014,14 +2014,14 @@ ttc:hover {
     border-radius: 4px;
     text-align: center;
     width: 100%;
-    height: 33px;
+    height: 40px;
 }
 
 
 #avatar_dernier_membre img {
     position:absolute;
     width: 53px;
-    height: 33px;
+    height: 40px;
     right: 10px;
     object-fit: cover;
     border-radius: 0px 4px 4px 0px;
