@@ -1923,6 +1923,7 @@ ttc:hover {
 .cinqeel_gauche {
     display: flex;
     flex-wrap: wrap;
+    flex-direction:row;
     width: 70%;
     height: fit-content;
 }
