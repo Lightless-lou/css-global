@@ -2102,7 +2102,7 @@ ttc:hover {
 
 
 
-#users_were_online, #whosbirthday_today {
+#users_were_online, #whosbirthday_week {
     background: var(--bg2);
     padding: 6px;
     text-align:justify;
