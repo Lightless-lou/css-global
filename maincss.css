@@ -1912,6 +1912,7 @@ ttc:hover {
     height: 60px;
     flex-direction: row;
     flex-wrap: wrap;
+    width:100%;
     background: -webkit-linear-gradient(190deg, var(--color1), var(--color2));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
