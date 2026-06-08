@@ -1896,7 +1896,7 @@ ttc:hover {
     flex-direction: row;
 }
 .cinqeel_droite img{
-    width:297px;
+    width:100%;
     height:45px;
     margin-top: 7px;
     margin-left:4px;
