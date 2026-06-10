@@ -60,6 +60,8 @@ x-bookmark-list {
     margin: auto 0;
     flex-shrink: 0;
     cursor: pointer;
+  background:var(--bg2)!important;
+  color:var(--purewhite);
 }
 x-bookmark-list input[type="checkbox"] + div label::before {
     font-size: 8px;
@@ -75,7 +77,7 @@ x-bookmark-list input[type="checkbox"] + div label::after {
     width: 13px;
     height: 13px;
     border-radius: 18px;
-    background-color: var(--color2)!important;
+    background-color: var(--linear)!important;
     position: absolute;
     top: 2px;
 }
