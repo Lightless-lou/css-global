@@ -25,6 +25,7 @@
 #bookmark-popover h1 {
     text-align: center;
     margin: 10px;
+  position:relative;
 }
 x-bookmark-list {
     height: calc(100vh - 130px);
