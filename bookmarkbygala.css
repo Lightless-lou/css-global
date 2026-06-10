@@ -61,7 +61,7 @@ x-bookmark-list {
     flex-shrink: 0;
     cursor: pointer;
   background:var(--bg3)!important;
-  
+  -webkit-text-fill-color: var(--purewhite) !important;
 }
 x-bookmark-list input[type="checkbox"] + div label::before {
     font-size: 8px;
