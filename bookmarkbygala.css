@@ -74,8 +74,8 @@ x-bookmark-list input[type="checkbox"] + div label::before {
 x-bookmark-list input[type="checkbox"] + div label::after {
     content: '';
     display: block;
-    width: 13px;
-    height: 13px;
+    width: 16px;
+    height: 16px;
     border-radius: 18px;
     background-color: var(--bg2)!important;
     position: absolute;
