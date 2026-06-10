@@ -40,6 +40,8 @@ x-bookmark-list {
     padding: 10px;
     margin-left: 40px!important;
     width: 100%;
+      font-family: var(--font1);
+    color: var(--text1);
 }
 #bookmark-list div {
     display: flex;
