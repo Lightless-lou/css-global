@@ -6,7 +6,7 @@
     position: fixed;
     width: 30px;
     height: 30px;
-    left: 9px;
+    left: 50px;
     bottom:50px;
     cursor: pointer;
     z-index:999;
@@ -118,6 +118,7 @@ x-bookmark-list path {
     display: block;
     top: 0;
     left: 0;
+  bottom: 50px;
     width: calc(100% - 30px);
     height: 100%;
     position: absolute;
@@ -141,6 +142,7 @@ x-bookmark-list path {
     overflow: hidden;
     top: 0;
     left: 65px;
+  bottom:50px;
     padding: 15px 45px 15px 15px;
     max-width: 100%;
     width: 478px;
