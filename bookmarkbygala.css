@@ -37,7 +37,7 @@ x-bookmark-list {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
     overflow: hidden;
-    padding: 0 10px;
+    padding: 10px;
     margin: 10px 0;
     width: 100%;
 }
@@ -60,7 +60,7 @@ x-bookmark-list {
     cursor: pointer;
 }
 x-bookmark-list input[type="checkbox"] + div label::before {
-    font-size: 10px;
+    font-size: 8px;
     color: #fff;
     height: 100%;
     display: flex;
@@ -81,7 +81,7 @@ x-bookmark-list input[type="checkbox"] + div label::after {
     opacity: 0.30;
 }
 #bookmark-list input[type="checkbox"]:checked + div label {
-    background-color: #719E3B;
+    background-color: #719E3B!important;
 }
 x-bookmark-list input[type="checkbox"]:checked + div label::before {
     content: 'fait';
@@ -91,7 +91,7 @@ x-bookmark-list input[type="checkbox"]:checked + div label::after {
     left: 2px;
 }
 x-bookmark-list input[type="checkbox"]:not(:checked) + div label {
-    background-color: #CB3F3F;
+    background-color: #CB3F3F!important;
 }
 x-bookmark-list input[type="checkbox"]:not(:checked) + div label::before {
     content: 'à faire';
