@@ -38,7 +38,7 @@ x-bookmark-list {
     -webkit-line-clamp: 2;
     overflow: hidden;
     padding: 10px;
-    margin-left: 30px;
+    margin-left: 40px;
     width: 100%;
 }
 #bookmark-list div {
