@@ -23,8 +23,8 @@
     color: var(--neutralDark);
 }
 #bookmark-popover h1 {
-    text-align: left;
-    margin: 0;
+    text-align: center;
+    margin: 10px;
 }
 x-bookmark-list {
     height: calc(100vh - 130px);
@@ -59,7 +59,7 @@ x-bookmark-list {
     cursor: pointer;
 }
 x-bookmark-list input[type="checkbox"] + div label::before {
-    font-size: 11px;
+    font-size: 10px;
     color: #fff;
     height: 100%;
     display: flex;
@@ -110,6 +110,13 @@ x-bookmark-list button {
 x-bookmark-list path {
     fill: var(--contrastLight);
 }
+
+x-bookmark-button {
+  background:var(--bg1); 
+  color:var(--color1); 
+  border-radius:5px; 
+  position:relative;} 
+
 #bookmark-popover {
     border: none;
 }
