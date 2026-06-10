@@ -22,7 +22,7 @@
 #bookmark-button-open:active 
     color: var(--neutralDark);
 }
-#bookmark-popover h1 {
+#bookmark-popover nofi {
     text-align: center;
     margin: 10px;
   position:relative;
