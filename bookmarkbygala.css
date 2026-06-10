@@ -13,7 +13,7 @@
     transition-property: right;
     transition-duration: 500ms;
     display: grid;
-    place-items: center
+    place-items: center;
 }
 #bookmark-button-open:hover {
     color: var(--accentClr);
@@ -38,12 +38,12 @@ x-bookmark-list {
     -webkit-line-clamp: 2;
     overflow: hidden;
     padding: 10px;
-    margin-left: 40px;
+    margin-left: 40px!important;
     width: 100%;
 }
 #bookmark-list div {
     display: flex;
-    background: var(--neutralDark);
+    background: var(--bg1);
     border-radius: 5px;
     margin-top: 15px;
 }
@@ -70,8 +70,8 @@ x-bookmark-list input[type="checkbox"] + div label::before {
 x-bookmark-list input[type="checkbox"] + div label::after {
     content: '';
     display: block;
-    width: 16px;
-    height: 16px;
+    width: 13px;
+    height: 13px;
     border-radius: 18px;
     background-color: #fff!important;
     position: absolute;
