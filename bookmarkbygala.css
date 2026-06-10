@@ -133,7 +133,7 @@ x-bookmark-list path {
 #bookmark-popover .popover::after {
     content: '';
     display: block;
-    top: 50px;
+    top: 55px;
     left: 0;
   bottom: 50px;
     width: calc(100% - 30px);
@@ -141,8 +141,8 @@ x-bookmark-list path {
     position: absolute;
     background: var(--transp2);
     border-radius:30px;
-    backdrop-filter:blur(10px);
-   height: 82%;
+    backdrop-filter:blur(10px)!important;
+   height: 80%;
     outline:1px solid var(--transp2);
     outline-offset:5px;
     border:2px solid var(--transp2);
