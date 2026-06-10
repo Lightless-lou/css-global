@@ -73,7 +73,7 @@ x-bookmark-list input[type="checkbox"] + div label::after {
     width: 13px;
     height: 13px;
     border-radius: 18px;
-    background-color: #fff!important;
+    background-color: var(--bg2)!important;
     position: absolute;
     top: 2px;
 }
@@ -135,8 +135,8 @@ x-bookmark-list path {
     position: absolute;
     background: var(--transp2);
     border-radius:30px;
-      backdrop-filter:blur(10px);
- height: 82%;
+    backdrop-filter:blur(10px);
+   height: 82%;
     outline:1px solid var(--transp2);
     outline-offset:5px;
     border:2px solid var(--transp2);
