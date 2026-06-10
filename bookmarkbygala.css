@@ -26,6 +26,7 @@
     text-align: center;
     margin: 10px;
   position:relative;
+  display:flex;
 }
 x-bookmark-list {
     height: calc(100vh - 130px);
@@ -38,7 +39,7 @@ x-bookmark-list {
     -webkit-line-clamp: 2;
     overflow: hidden;
     padding: 10px;
-    margin: 10px 0;
+    margin-left: 10px;
     width: 100%;
 }
 #bookmark-list div {
@@ -112,11 +113,12 @@ x-bookmark-list path {
     fill: var(--contrastLight);
 }
 
-x-bookmark-button {
+#bookmark-button {
   background:var(--bg1); 
   color:var(--color1); 
   border-radius:5px; 
-  position:relative;} 
+  position:relative;
+} 
 
 #bookmark-popover {
     border: none;
