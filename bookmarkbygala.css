@@ -113,11 +113,9 @@ x-bookmark-list path {
 }
 
 #bookmark-button {
-  background:var(--bg1)!important; 
-  color:var(--color1)!important; 
+  background:var(--linear)!important; 
+  color:var(--text1)!important; 
   border-radius:5px!important; 
-  position:relative!important;
-  top:20px!important;
 } 
 
 #bookmark-popover {
