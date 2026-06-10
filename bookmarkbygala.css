@@ -116,7 +116,7 @@ x-bookmark-list path {
 #bookmark-popover .popover::after {
     content: '';
     display: block;
-    top: 0;
+    top: 50px;
     left: 0;
   bottom: 50px;
     width: calc(100% - 30px);
