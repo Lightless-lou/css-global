@@ -25,7 +25,6 @@
 #bookmark-popover nofi {
     text-align: center;
     margin: 10px;
-  position:relative;
   display:flex;
 }
 x-bookmark-list {
@@ -118,7 +117,7 @@ x-bookmark-list path {
   color:var(--color1)!important; 
   border-radius:5px!important; 
   position:relative!important;
-  bottom:20px!important;
+  top:20px!important;
 } 
 
 #bookmark-popover {
