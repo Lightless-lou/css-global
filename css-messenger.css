@@ -75,7 +75,7 @@
     z-index: 999;
     visibility: visible;
     opacity: 1;
-    bottom: 70px;
+    bottom: 50px;
     margin:10px;
     transition-property: top, right, bottom, left, height, width, margin, opacity, visibility;
     transition-duration: 700ms;
@@ -165,7 +165,7 @@ sms4:after{
 #FAM-button {
     color: #fff;
     font-size: 18px;
-    background: -webkit-linear-gradient(50deg, var(--color1), var(--color2), var(--color3));
+    background: -webkit-linear-gradient(50deg, var(--color1), var(--color2));
     border-radius: 10px;
     position: fixed;
     width: 30px;
