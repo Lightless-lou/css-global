@@ -79,7 +79,7 @@ x-bookmark-list input[type="checkbox"] + div label::after {
     top: 2px;
 }
 #bookmark-list input[type="checkbox"]:checked + div {
-    opacity: 0.30;
+    opacity: 0.50;
 }
 #bookmark-list input[type="checkbox"]:checked + div label {
     background-color: #719E3B!important;
@@ -114,10 +114,11 @@ x-bookmark-list path {
 }
 
 #bookmark-button {
-  background:var(--bg1); 
-  color:var(--color1); 
-  border-radius:5px; 
-  position:relative;
+  background:var(--bg1)!important; 
+  color:var(--color1)!important; 
+  border-radius:5px!important; 
+  position:relative!important;
+  bottom:20px!important;
 } 
 
 #bookmark-popover {
