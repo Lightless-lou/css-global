@@ -205,7 +205,8 @@ html[data-forum-layout="columns"]
   width: 100%;
   line-height: 16px;
   white-space: nowrap;
-  font-family:var(--font2)!important;
+  font-family:var(--font1)!important;
+   letter-spacing:1px;
 }
 
 
@@ -575,7 +576,8 @@ html[data-forum-layout="normal"]
   width: 280px;
   height: 80px;
 
-  margin-top: 10px;
+  margin-top: 0px;
+   margin-bottom:10px;
 }
 
 html[data-forum-layout="normal"]
