@@ -301,7 +301,7 @@ html[data-forum-layout="normal"]
 
   line-height: 21px !important;
   text-align: right !important;
-
+ color:var(--color3)!important;
   text-overflow: ellipsis !important;
   white-space: nowrap !important;
 }
