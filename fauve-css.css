@@ -1,6 +1,6 @@
 /* SWITCH DE DISPOSITION : DEUX COLONNES / MODE NORMAL
    Le JavaScript ajoute l'une de ces deux valeurs sur <html> :
-   data-forum-layout="columns"
+   data-forum-layout="columns" 
    data-forum-layout="normal"
    Le CSS utilise ensuite cet attribut pour choisir la disposition
    sans avoir besoin de dupliquer le template index_box
