@@ -922,6 +922,7 @@ html[data-forum-layout] .category .forum > .forum_stats {
   background: var(--bg2) !important;
   border-radius: 4px;
   font-family: var(--font3);
+  
 }
 
 html[data-forum-layout] .category .forum > .forum_stats > span {
@@ -934,7 +935,7 @@ html[data-forum-layout] .category .forum > .forum_stats > span {
   font-size: 10px;
   font-style: normal;
   font-weight: 400;
-   letter-spacing:0.5;
+  letter-spacing:1px;
   line-height: 15px;
   text-align: center;
 }
@@ -983,6 +984,8 @@ html[data-forum-layout] .category .forum_lastpost > span {
   color: inherit;
   font: inherit;
   text-align: inherit;
+       margin-left: -10px;
+    margin-top: 5px;
 }
 
 /* Sous-forums */
