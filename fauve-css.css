@@ -901,7 +901,7 @@ html[data-forum-layout] .category .forum_desc.cindesc {
   font-weight: 400;
   line-height: 1.45;
   text-align: justify;
-  scrollbar-width: thin;
+  scrollbar-width: 0;
 }
 
 html[data-forum-layout] .category .forum_desc.cindesc > span {
