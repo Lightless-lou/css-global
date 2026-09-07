@@ -194,8 +194,6 @@ html[data-forum-layout="columns"]
   background: transparent !important;
   border: 0 !important;
   box-shadow: none !important;
-   
-  font-family:var(--font2)!important;
 }
 
 html[data-forum-layout="columns"]
