@@ -48,7 +48,7 @@ html[data-forum-layout="columns"] #c3 {
 */
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c1 {
-  --forum-filler-image: url('https://i.pinimg.com/736x/ae/5f/94/ae5f9416cdf12c8092319bf80c49f527.jpg');
+  --forum-filler-image: url("https://i.pinimg.com/736x/ae/5f/94/ae5f9416cdf12c8092319bf80c49f527.jpg");
 }
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c2 {
