@@ -31,7 +31,7 @@ body {
 */
 
 html[data-forum-layout="columns"] #c1 {
-  --forum-filler-image: url("https://i.pinimg.com/736x/2e/60/43/2e6043595280a71a42694c7ad230f4a0.jpg");
+  --forum-filler-image: url("https://i.pinimg.com/736x/b4/6d/58/b46d580479b6ba6167e5fe2d26b75f8f.jpg");
 }
 
 html[data-forum-layout="columns"] #c4 {
@@ -48,11 +48,11 @@ html[data-forum-layout="columns"] #c3 {
 */
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c1 {
-  --forum-filler-image: url("https://i.pinimg.com/1200x/d5/15/19/d51519c61c7d2f23e2251487cc8460da.jpg");
+  --forum-filler-image: url("https://i.pinimg.com/736x/36/e7/04/36e704e6576884747fa910ad47fa3822.jpg");
 }
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c4 {
-  --forum-filler-image: url("https://i.pinimg.com/736x/0d/17/f4/0d17f4b6eca0bc173602cf57e842c0cd.jpg");
+  --forum-filler-image: url("https://i.pinimg.com/736x/40/d6/91/40d691bf44c98fd837b7c02bb039be02.jpg");
 }
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c3 {
