@@ -42,7 +42,17 @@ html[data-forum-layout="columns"] #c3 {
   --forum-filler-image: url("https://i.pinimg.com/736x/1b/0f/d1/1b0fd1e961b67d7c6d0c2594c9d81019.jpg");
 }
 
+html[data-forum-layout="columns"] #f6 {
+  --forum-filler-image: url("https://i.pinimg.com/736x/30/a8/0d/30a80dab1e86392476eae1d6e2a04331.jpg");
+}
 
+html[data-forum-layout="columns"] #f11 {
+  --forum-filler-image: url("https://i.pinimg.com/1200x/4e/40/9d/4e409d2d7235ceeb648d8dbe355a7785.jpg");
+}
+
+html[data-forum-layout="columns"] #f107 {
+  --forum-filler-image: url("https://i.pinimg.com/736x/13/a9/16/13a916dbc98d0fd0c57c30d4bb6841a8.jpg");
+}
 /*
    Variantes facultatives pour le thème sombre
 */
@@ -59,6 +69,17 @@ html[data-forum-layout="columns"][data-color-scheme="dark"] #c3 {
   --forum-filler-image: url("https://i.pinimg.com/736x/c3/b8/41/c3b84169dd05365f33519de8011104b3.jpg");
 }
 
+html[data-forum-layout="columns"][data-color-scheme="dark"] #f6 {
+  --forum-filler-image: url("https://i.pinimg.com/736x/88/86/f0/8886f0393da769a2bd213efef683bd01.jpg");
+}
+
+html[data-forum-layout="columns"][data-color-scheme="dark"] #f11 {
+  --forum-filler-image: url("https://i.pinimg.com/1200x/09/8c/31/098c31b86e8b1bb5e9f3fbb6f3d8cfd0.jpg");
+}
+
+html[data-forum-layout="columns"][data-color-scheme="dark"] #f107 {
+  --forum-filler-image: url("https://i.pinimg.com/736x/c7/d4/de/c7d4dec04e771cbf170532f94b75edd7.jpg");
+}
 
 /* GRILLE PRINCIPALE DU MODE DEUX COLONNES
    .forums est le parent direct de toutes les cartes .forum.
