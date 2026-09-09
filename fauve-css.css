@@ -52,7 +52,7 @@ html[data-forum-layout="columns"][data-color-scheme="dark"] #c1 {
 }
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c2 {
-  --forum-filler-image: linear-gradient(135deg, var(--color2), var(--bg3));
+  --forum-filler-image: url("https://i.pinimg.com/736x/0d/17/f4/0d17f4b6eca0bc173602cf57e842c0cd.jpg");
 }
 
 html[data-forum-layout="columns"][data-color-scheme="dark"] #c3 {
