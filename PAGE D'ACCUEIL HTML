@@ -1,0 +1,388 @@
+<link rel="stylesheet" href="https://lightless-lou.github.io/css-global/css-PA.css"> 
+<link rel="stylesheet" href="https://lightless-lou.github.io/css-global/CSS-PA2.css"> 
+    
+<!--                ************************** DEBUT TOP ****************************                 -->
+<div style="text-align: center;" class="sobpa_top">
+	    <a href="/t365-b-reglement"><span><ion-icon name="document-text-outline"></ion-icon> Règlement</span></a>        <a href="/f43-annexes"><span><ion-icon name="layers-outline"></ion-icon> Annexes</span></a>     <a href="/t358-a-bottin-des-avatars"><span><ion-icon name="people-outline"></ion-icon> Bottin</span></a>       <a href="/t380-recherche-de-partenaires-de-rp"><span><ion-icon name="chatbubbles-outline"></ion-icon> Recherches RP</span></a>            <a href="/t553-depensez-vos-points-et-votre-argent"><span><ion-icon name="cart-outline"></ion-icon> Boutique</span></a>       <a href="/f15-pre-liens"><span><ion-icon name="link-outline"></ion-icon> Préliens</span></a>         <a href="/f90-les-questions-cons"><span><ion-icon name="help-circle-outline"></ion-icon> Questions</span></a> 
+</div>
+               
+<!--                ************************** FIN TOP ****************************                 -->
+<div style="height:fit-content!important" class="sobpa_bloc">
+	                               
+	<div class="sobpa_bottom">
+		                                
+		<!--                ************************** DEBUT LEFT ****************************                 -->              
+		<div class="sobpa_left">
+			                           
+		</div>
+		                           
+		<!--                ************************** FIN LEFT ****************************                 -->                                 
+		<!--                ************************** DEBUT CENTRE ****************************                 -->                       
+		<div class="sobpa_center">
+			                             
+			<!--                ***** DEBUT CONTEXTE *****                 -->                 
+			<div style="height:fit-content;" class="sobpa_contexte">
+				                  <em>   La petite histoire </em>- Vous êtes vous déjà demandé jusqu'où vous seriez prêt.e.s à aller pour protéger un secret, votre secret le plus inavouable ? Quelles sont les limites que vous pourriez franchir ? Parce qu'en venant ici, à <st>Roselake</st> il faut vous attendre à ce qu'on vous pose la question. Ici, à Roselake, <em>nightmare</em> règne en maître. Et il aime jouer avec le peuple de la ville. Alors que cherchez vous en venant ? Des réponses ? Un scoop ? Ou bien une vie tranquille ? Vous n'êtes pas au bout de vos surprises. <a href="https://wedareyou.forumactif.com/t364-a-contexte">lire la suite <ion-icon name="arrow-forward-outline" style="margin-left:1px; font-size:11px;vertical-align: middle;"></ion-icon></a>   
+			</div><br /> 
+			<!--                ***** FIN CONTEXTE *****                 -->                         
+			<div style="display: flex; gap: 0px; align-items: flex-start; width:100%;">
+				 
+				<!--                ***** DEBUT ZONE STAFF *****                 -->                
+				<div class="sobpa_staff">
+					                                    
+					<!--                ***** LIENS MODAL *****                 -->                
+					<div class="sobpa_stafflinks">
+						                           
+						<div data-target="#modal_1" data-toggle="modal" class="pa_admin">
+							              <img src="https://64.media.tumblr.com/7e51dc07408619ab94ecb9602c0a39e1/tumblr_ovk781YJdr1s19s6do6_1280.jpg" />              
+						</div>
+						                                      
+						<div data-target="#modal_2" data-toggle="modal" class="pa_admin">
+							              <img src="https://64.media.tumblr.com/3c9fc365d52303bb7a274ca451783aab/3bd75137df75353b-3a/s500x750/e197a863beaebe3d6011fa3aa902e264980d07c3.jpg" />              
+						</div>
+						                       
+						<div data-target="#modal_3" data-toggle="modal" class="pa_admin">
+							              <img src="https://64.media.tumblr.com/d05f27e6e6e7de05ed094ffaa1902785/365bd924bb897923-1a/s400x600/397c68ea8c304ec82ef3e60b12700bf87b0f3933.pnj" />              
+						</div>
+						                       
+						<div data-target="#modal_4" data-toggle="modal" class="pa_admin">
+							              <img src="https://64.media.tumblr.com/144329c9eccf7be42a973f4d6b89448a/bf8c9365fc9f21ed-2b/s400x600/33a2769d30d579b4ddb18e69ef613652a588f7bd.pnj " />              
+						</div>
+						                           
+					</div>
+					                           
+					<!--                ***** FIN LIENS MODAL *****                 -->                                             
+					<!--                ***** DEUXIEME MODAL *****                 -->               
+					<div role="dialog" id="modal_1" class="modal fade in">
+						                                    
+						<div role="document" class="modal-dialog">
+							                                    
+							<div class="modal-content">
+								                                       
+								<div class="SOB_staffpopup">
+									                                 <img src="https://64.media.tumblr.com/48460b22de8f3e4641bbf0924f505508/e396569518b18718-b2/s250x400/c16e5d0777a2ccf0a21a5b5b70c8b56b14fef889.gif" />                               
+									<div class="SOB_staffinfo">
+										                               <span aria-label="Close" data-dismiss="modal" class="close" aria-hidden="true"><ion-icon name="close-outline"></ion-icon></span>                                 
+										<div class="SOB_staffpseudo">
+											              Lightless Lou            
+										</div>
+										                                       
+										<div class="SOB_staffrang">
+											              fondatrice / design 
+										</div>
+										                                                                    
+										<div class="SOB_staffbio">
+											                                         
+											<div class="SOB_staffbiotop">
+												              présente / elle             
+											</div>
+											                                         
+											<div class="SOB_staffbiobot">
+												                                                           
+												<div class="SOB_staffcomptes">
+													              <a title="Tcheo Delorme" href="https://wedareyou.forumactif.com/u113"><img src="https://i.pinimg.com/736x/f5/bb/ec/f5bbec76bb1249172e52b98e3bb76ef6.jpg" /></a><a title="Ava Serra" href="https://wedareyou.forumactif.com/u74"><img src="https://64.media.tumblr.com/ab281f7ad49eefd2a0bf0eda24949bde/ff58eed09eea89a8-6e/s640x960/a99de9d9d23a78ff924c3d7c1fd40f2097779aa1.jpg" /></a><a title="??" href="https://wedareyou.forumactif.com/u336"><img src="https://64.media.tumblr.com/a4bfa11bf45e8149922458b2810dc588/1d2c220256105087-56/s400x600/87da34533ad012885f7225a6648e02880a21f040.pnj" /></a>            
+												</div>
+												                             
+											</div>
+											                                                   
+											<div class="SOB_staffmp">
+												                          <a title="Contacter" href="https://wedareyou.forumactif.com/privmsg?mode=post&u=113">CONTACTER <ion-icon name="mail-outline"></ion-icon></a>                        
+											</div>
+											                           
+										</div>
+										                                               
+									</div>
+									                           
+								</div>
+								                                       
+							</div>
+							                           
+						</div>
+						                           
+					</div>
+					                              
+					<!--                ***** FIN DEUXIEME MODAL ******                 -->                            
+					<!--                ***** DEUXIEME MODAL *****                 -->               
+					<div role="dialog" id="modal_2" class="modal fade in">
+						                                    
+						<div role="document" class="modal-dialog">
+							                                    
+							<div class="modal-content">
+								                                       
+								<div class="SOB_staffpopup">
+									                                 <img src="https://i.pinimg.com/originals/33/d2/78/33d2781d1ec96952dff33e582840e682.gif" />                               
+									<div class="SOB_staffinfo">
+										                               <span aria-label="Close" data-dismiss="modal" class="close" aria-hidden="true"><ion-icon name="close-outline"></ion-icon></span>                                 
+										<div class="SOB_staffpseudo">
+											              Blackswan 
+										</div>
+										                                       
+										<div class="SOB_staffrang">
+											              fondatrice / Nightmare 
+										</div>
+										                                                                    
+										<div class="SOB_staffbio">
+											                                         
+											<div class="SOB_staffbiotop">
+												              présente / elle             
+											</div>
+											                                         
+											<div class="SOB_staffbiobot">
+												                                                           
+												<div class="SOB_staffcomptes">
+													              <a title="Ash Lewis" href="https://wedareyou.forumactif.com/u158"><img src="https://64.media.tumblr.com/3cb90d17b7bd5be0b559bf30f58b055d/aecf664c553a2444-01/s400x600/c75d63a57cca988d4e01c1d379c059283180550f.jpg" /></a><a title="Luna Rivera" href="https://wedareyou.forumactif.com/u211"><img src="https://64.media.tumblr.com/64df6ee962d8f27ab62c98541866e5b5/517d16fbb037eac3-09/s640x960/8de86b3383e193d2cde97c0917894ae89c73f053.jpg" /></a><a title="Nicholas Williams" href="https://wedareyou.forumactif.com/u189"><img src="https://64.media.tumblr.com/8fc9170a25b4e34ecc50f6b35a60af0a/50eb369d367fed45-b8/s250x400/f9afe1fc4a3eb5d809f92b0a83bb7752f574a124.pnj" /></a>              
+												</div>
+												                             
+											</div>
+											                                                   
+											<div class="SOB_staffmp">
+												                          <a title="Contacter" href="https://wedareyou.forumactif.com/privmsg?mode=post&u=45">CONTACTER <ion-icon name="mail-outline"></ion-icon></a>                        
+											</div>
+											                           
+										</div>
+										                                               
+									</div>
+									                           
+								</div>
+								                                       
+							</div>
+							                           
+						</div>
+						                           
+					</div>
+					                              
+					<!--                ***** FIN DEUXIEME MODAL ******                 -->             
+					<!--                ***** DEUXIEME MODAL *****                 -->               
+					<div role="dialog" id="modal_3" class="modal fade in">
+						                                    
+						<div role="document" class="modal-dialog">
+							                                    
+							<div class="modal-content">
+								                                       
+								<div class="SOB_staffpopup">
+									                                 <img src="https://media.tenor.com/-XaXIHPz7moAAAAM/i'm-i-am.gif" />                               
+									<div class="SOB_staffinfo">
+										                               <span aria-label="Close" data-dismiss="modal" class="close" aria-hidden="true"><ion-icon name="close-outline"></ion-icon></span>                                 
+										<div class="SOB_staffpseudo">
+											              Rei 
+										</div>
+										                                       
+										<div class="SOB_staffrang">
+											              Modo / Petite main 
+										</div>
+										                                                                    
+										<div class="SOB_staffbio">
+											                                         
+											<div class="SOB_staffbiotop">
+												              ralentissement / elle            
+											</div>
+											                                         
+											<div class="SOB_staffbiobot">
+												                                                           
+												<div class="SOB_staffcomptes">
+													              <a title="Lloyd Winchester" href="https://wedareyou.forumactif.com/u188"><img src="https://64.media.tumblr.com/775a617b0de0442821e7a7256a989b00/e7d64df04573b224-05/s400x600/25bfa11a2ad2a8d6d56f604b0b8dd13625ad0a87.jpg" /></a><a title="Nya A. D'isigny" href="https://wedareyou.forumactif.com/u313"><img src="https://i.pinimg.com/736x/e0/2f/71/e02f7141bc3969146cdea155c2541edb.jpg" /></a><a title="Reyn Blackwood" href="https://wedareyou.forumactif.com/u247"><img src="https://i.pinimg.com/736x/3f/43/a4/3f43a4f29a66204bbe3d150319d0250f.jpg" /></a>              
+												</div>
+												                             
+											</div>
+											                                                   
+											<div class="SOB_staffmp">
+												                          <a title="Contacter" href="URL MP">CONTACTER <ion-icon name="mail-outline"></ion-icon></a>                        
+											</div>
+											                           
+										</div>
+										                                               
+									</div>
+									                           
+								</div>
+								                                       
+							</div>
+							                           
+						</div>
+						                           
+					</div>
+					                              
+					<!--                ***** FIN DEUXIEME MODAL ******                 -->             
+					<!--                ***** DEUXIEME MODAL *****                 -->               
+					<div role="dialog" id="modal_4" class="modal fade in">
+						                                    
+						<div role="document" class="modal-dialog">
+							                                    
+							<div class="modal-content">
+								                                       
+								<div class="SOB_staffpopup">
+									                                 <img src="https://64.media.tumblr.com/b09aa04e69e76d1a473663ee2b2d6967/a680f8b0e3030035-4c/s500x750/d82d858931927f5cb66b720015091a7ea410cceb.gif" />                               
+									<div class="SOB_staffinfo">
+										                               <span aria-label="Close" data-dismiss="modal" class="close" aria-hidden="true"><ion-icon name="close-outline"></ion-icon></span>                                 
+										<div class="SOB_staffpseudo">
+											              Darklies-clearminds 
+										</div>
+										                                       
+										<div class="SOB_staffrang">
+											              Modérateur / Petite main 
+										</div>
+										                                                                    
+										<div class="SOB_staffbio">
+											                                         
+											<div class="SOB_staffbiotop">
+												              présent / il 
+											</div>
+											                                         
+											<div class="SOB_staffbiobot">
+												                                                           
+												<div class="SOB_staffcomptes">
+													              <a title="Cesar Larkin" href="https://wedareyou.forumactif.com/u193"><img src="https://i.pinimg.com/736x/1b/3f/a7/1b3fa789d9684a4746db910f6915ada3.jpg" /></a><a title="Andrea R. Madrazzo" href="https://wedareyou.forumactif.com/u164"><img src="https://i.pinimg.com/1200x/7b/4e/28/7b4e287ce1de260a47f358e03a821b8e.jpg" /></a><a title="Yorick Wagner" href="https://wedareyou.forumactif.com/u325"><img src="https://i.pinimg.com/736x/1b/f4/69/1bf46997ec8f8e1233afd8d5c1aee5d3.jpg" /></a>              
+												</div>
+												                             
+											</div>
+											                                                   
+											<div class="SOB_staffmp">
+												                          <a title="Contacter" href="https://wedareyou.forumactif.com/privmsg?mode=post&u=283">CONTACTER <ion-icon name="mail-outline"></ion-icon></a>                        
+											</div>
+											                           
+										</div>
+										                                               
+									</div>
+									                           
+								</div>
+								                                       
+							</div>
+							                           
+						</div>
+						                           
+					</div>
+					                              
+					<!--                ***** FIN DEUXIEME MODAL ******                 -->                                               
+				</div>
+				                                   
+				<!--                ***** FIN ZONE STAFF *****                 -->                                    
+				<div style="display: flex; flex-direction: column; gap: 10px; flex: 1; width:100%;">
+					                     
+					                                              
+					<!--                ***** DEBUT INFOS  *****                 -->              
+					<div style="margin-bottom:3px;" class="sobpa_plbloc">
+						                               
+						<div class="sobpa_pltitre">
+							                                          <a href="https://wedareyou.forumactif.com/t4866-edition-du-09-09-2026">  <i class="fa-solid fa-newspaper">&nbsp;</i> </a> randall secret news de septembre  
+						</div>
+						                                   
+					</div>
+					                          
+					<div style="margin-bottom:3px;" class="sobpa_plbloc">
+						                               
+						<div class="sobpa_pltitre">
+							                                          <a href="https://wedareyou.forumactif.com/t4868-recensement-septembre-2026">  <i class="fa-solid fa-square-pen">&nbsp;</i> </a> c'est l'heure du recensement !  
+						</div></div>
+
+<div style="margin-bottom:3px;" class="sobpa_plbloc">
+						                               
+						<div class="sobpa_pltitre">
+							                                          <a href="https://discord.gg/UVzWe2qm2V">  <i class="fa-brands fa-discord">&nbsp;</i> </a> rejoins le serveur !  
+						</div></div> 
+
+<div style="margin-bottom:3px;" class="sobpa_plbloc">
+						                               
+						<div class="sobpa_pltitre">
+							                                          <a href="https://www.forumrpg.fr/vote/we-dare-you-s6asdk">  <i class="fa-solid fa-ranking-star">&nbsp;</i> </a> un petit vote ?
+						</div>
+						                                   
+					</div>
+					   
+					<!--                ***** FIN INFOS  *****                -->                      
+				</div>
+				                  
+			</div>
+			 
+		</div>
+		                               
+		<!--                ************************** FIN CENTRE ****************************                 -->                       
+		<!--                ************************** DEBUT DROITE ****************************                 -->                      
+		<div class="sobpa_right">
+			                             
+			<!--                ***** DEBUT NEWS *****                 -->              
+			<div class="sobpa_news">
+				                  <em> 09.11.2020 -</em> ouverture de we dare you<st>09.11.2025</st> - Joyeux anniversaire we dare you ! Cinq ans déjà avec vous tous, mercii ! <em>09.09.2026</em> - mise à jour n°67 // <st>c'est la rentrée !</st>                        
+			</div>
+			                           
+			<!--                ***** FIN NEWS *****                -->                                  
+			<!--                ***** DEBUT MDM *****                -->                   
+			<div style="height:fit-content; margin:10px;" class="sobpa_mdm">
+				                                      <section class="membres-row">  
+				<div style="" class="flip-card">
+					    
+					<div class="flip-inner">
+						      
+						<div style="background-image: url('https://64.media.tumblr.com/6bb91d6d7ca71f212331a067d5e3d7b5/db6dbcabcb7b2c9c-8a/s500x750/bc08f85ccd22943d022407aca4ec7541daf59957.pnj'); filter:grayscale(1); background-position:0% 35%;" class="flip-front">
+						</div>
+						      
+						<div class="flip-back">
+							        <bloom>Caïn F.</bloom>        <bm>Membre en or</bm>      
+						</div>
+						    
+					</div>
+					  
+				</div>
+				<div style="" class="flip-card">
+					    
+					<div class="flip-inner">
+						      
+						<div style="background-image: url('https://64.media.tumblr.com/8a33d8b3ea1c3af92d218e0fe5b05638/6a911eaabec2c7f5-c8/s500x750/6ee6d88bd7fe0369e805c0ae86ec1a0561647d90.pnj'); filter:grayscale(1); background-position:0% 45%;" class="flip-front">
+						</div>
+						      
+						<div class="flip-back">
+							        <bloom>Ji Soo M.</bloom>        <bm>Membre en argent</bm>      
+						</div>
+						    
+					</div>
+					  
+				</div>
+				<div style="" class="flip-card">
+					    
+					<div class="flip-inner">
+						      
+						<div style="background-image: url('https://64.media.tumblr.com/572df7f8467315a16c2322c2339149bb/tumblr_pvk9d753OX1x1l0y5o7_500.pnj'); filter:grayscale(1); background-position:0% 40%;" class="flip-front">
+						</div>
+						      
+						<div class="flip-back">
+							        <bloom>David R.</bloom>        <bm>Membre en bronze</bm>      
+						</div>
+						    
+					</div>
+					  
+				</div> </section>                                     
+			</div>
+			                              
+			<!--                ***** FIN MDM *****                -->                           
+			<!--                ***** DEBUT PL *****                -->              
+			<div style="background:transparent; height:fit-content!important; margin-bottom:10px;" class="sobpa_pl">
+				                         
+				<div style="" class="sobpa_plbloc">
+					           <a href="https://wedareyou.forumactif.com/t3805-sebastian-la-vengeance-est-un-plat-qui-se-mange-froidI">                   					<div style="" class="sobpa_pltitre">
+						              <ion-icon name="extension-puzzle-outline"></ion-icon> (m) hello my ex 
+					</div>  </a>                      
+				</div>
+				           
+				<div style="" class="sobpa_plimg">
+					              <img src="https://64.media.tumblr.com/a6a32e77a608dc1d4e0f58e577df4b30/953d76bb976f36aa-d6/s540x810/2affbac82863f85ffb5199c4c56643010ce8949d.gif" />              
+				</div>
+				           				     
+				<div style="" class="sobpa_plbloc">
+					           <a href="https://wedareyou.forumactif.com/t4618-m-mon-fils-adoptif">                     
+					<div style="" class="sobpa_pltitre">
+						             <ion-icon name="extension-puzzle-outline"></ion-icon> (m) Fils Adoptif            
+					</div>       </a>                      
+				</div>
+				           
+				<div style="" class="sobpa_plimg">
+					              <img src="https://64.media.tumblr.com/7a081d9aadbe9555467f2c573d2f45f3/95186f8b279f3100-15/s1280x1920/7578dd1b44495547c75f590c9db392ea5c2901c1.jpg" />              
+				</div>
+				                   
+			</div>
+			                        
+			<!--                ***** FIN PL *****                -->                     
+		</div>
+		                               
+		<!--                ************************** FIN DROITE ****************************                 -->                    
+	</div>
+</div>
+                 
+<!--                ************************** FIN PA ****************************                 --> <br /><br />
