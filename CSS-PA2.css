@@ -105,7 +105,7 @@
 }
 bloom {background: var(--linear); -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; font-family:var(--font-fo); font-weight:500; letter-spacing:1px; line-height:12px;  word-wrap: break-word; font-size:16px; text-transform:uppercase;}
 bm {font-family:courier new; color:var(--color3); text-transform:uppercase; font-size:13px;}
-.sobpa_plbloc ion-icon{
+.sobpa_plbloc ion-icon, .sobpa_plbloc i{
         background: -webkit-linear-gradient(50deg, var(--color1), var(--color2));
     padding:2px 4px;
     border-radius:4px;
