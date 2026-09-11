@@ -282,7 +282,7 @@ width:70px!important;
   }
   .sobpa_plbloc ion-icon{
         background: -webkit-linear-gradient(50deg, var(--color1), var(--color2));
-    padding:2px 4px;
+    padding:2px 4px 2px 4px;
     border-radius:4px;
     text-align: right;
     margin: 0px 6px 0px -6px;
@@ -349,7 +349,7 @@ width: 40px;
   object-fit:cover;
   border-radius:4px;
     margin:0px 10px 0px 0px!important;
-  filter:none;  
+  filter:grayscale(1);  
 }
 
 
