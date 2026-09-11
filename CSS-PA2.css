@@ -107,7 +107,7 @@ bloom {background: var(--linear); -webkit-background-clip: text !important; -web
 bm {font-family:courier new; color:var(--color3); text-transform:uppercase; font-size:13px;}
 .sobpa_plbloc ion-icon, .sobpa_plbloc i{
         background: -webkit-linear-gradient(50deg, var(--color1), var(--color2));
-    padding:2px 4px;
+    padding:2px 2px 2px 4px;
     border-radius:4px;
     text-align: right;
     margin: 0px 6px 0px -6px;
