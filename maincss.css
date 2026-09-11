@@ -20,7 +20,7 @@
     --color3: #c1aa5e;
     --bgimgcolor: #191919;
     --bgimg: url('https://transparenttextures.com/patterns/3px-tile.png');
-    --header: url('https://images2.imgbox.com/35/54/OANrax7S_o.png');
+    --header: url('');
     --fond: linear-gradient(180deg, #202020 20%, #202020 80%,#322020);
     --size1: 3.6em;
     --size2: 1em;
@@ -88,7 +88,7 @@
     --bgimgcolor: #d6d6d8;
     --fond: linear-gradient(180deg, #d7d7d9 20%,#d7d7d9 80%,#82525f);
     --bgimg: url('https://transparenttextures.com/patterns/3px-tile.png');
-    --header: url('https://images2.imgbox.com/35/54/OANrax7S_o.png');
+    --header: url('');
     --transp2: rgba(240,234,215,0.5);
     --transp1: rgba(32, 34, 37, 0.5);
     --transp4: rgb(215 215 217);
