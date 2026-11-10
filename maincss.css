@@ -1190,34 +1190,65 @@ a:link,a:hover,a:visited,a:active {
     width: 100%;
 }
 
+/* Style de l'avatar actif extrait et placé dans la barre principale */
+#active-account-slot .switcheroo__squircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+    cursor: default;
+    background-color: var(--color2);
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
 
-.switcheroo__squircles {
+#active-account-slot .switcheroo__avatar {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    overflow: hidden;
+}
+
+#active-account-slot .switcheroo__avatar img {
+    width: 100%;
+    filter: grayscale(0) contrast(1.3) brightness(0.6);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Masquer les éléments indésirables s'il y en a dans l'espace actif */
+#active-account-slot .switcheroo__delete,
+#active-account-slot .switcheroo__squircle::before {
+    display: none !important;
+}
+
+
+.switcheroo__squircles,
+#switcheroo-dropdown-list .switcheroo__squircles {
     display: flex;
-    margin: 0px 20px 0px 0px;
-    padding: 0;
-    list-style: none;
+    flex-direction: row;
+    flex-wrap: wrap; /* Permet le retour à la ligne pour éviter la scrollbar */
+    margin: 0;
     padding: var(--gap-size);
     gap: var(--gap-size);
     align-items: center;
+    justify-content: center;
+    list-style: none;
 }
 
 
-.switcheroo .switcheroo__squircles {
-    flex-direction: row;
-    flex-wrap:wrap;
-}
-
-
-.switcheroo .switcheroo__squircle {
+.switcheroo .switcheroo__squircle,
+#switcheroo-dropdown-list .switcheroo__squircle {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: var(--color2);
-}
-
-
-.switcheroo .switcheroo__squircle {
     width: 50px;
     height: 50px;
     border-radius: 4px;
@@ -1226,7 +1257,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__squircle--button {
+.switcheroo .switcheroo__squircle--button,
+#switcheroo-dropdown-list .switcheroo__squircle--button {
     color: var(--purewhite);
     background: var(--bg1);
     font-weight: var(--weight2);
@@ -1243,25 +1275,23 @@ a:link,a:hover,a:visited,a:active {
     0% {
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
     }
-
-
     70% {
         box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
     }
-
-
     100% {
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
     }
 }
 
 
-.switcheroo .switcheroo__squircle:hover {
+.switcheroo .switcheroo__squircle:hover,
+#switcheroo-dropdown-list .switcheroo__squircle:hover {
     border-radius: 50%;
 }
 
 
-.switcheroo .switcheroo__squircle:before {
+.switcheroo .switcheroo__squircle:before,
+#switcheroo-dropdown-list .switcheroo__squircle:before {
     content: "";
     width: 100%;
     height: 100%;
@@ -1277,18 +1307,21 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__squircle.active {
+.switcheroo .switcheroo__squircle.active,
+#switcheroo-dropdown-list .switcheroo__squircle.active {
     cursor: default;
 }
 
 
-.switcheroo .switcheroo__squircle:hover:before {
+.switcheroo .switcheroo__squircle:hover:before,
+#switcheroo-dropdown-list .switcheroo__squircle:hover:before {
     opacity: 1;
-    transform: translate(-50%, -100%) scale(0.5);
+    transform: translate(-100%, -50%) scale(0.5);
 }
 
 
-.switcheroo .switcheroo__squircle.active:before {
+.switcheroo .switcheroo__squircle.active:before,
+#switcheroo-dropdown-list .switcheroo__squircle.active:before {
     opacity: 1;
     transform: translate(-50%, -85%) scale(0.2);
     border-radius: 50%;
@@ -1300,13 +1333,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo__squircle:hover:before {
-    opacity: 1;
-    transform: translate(-100%, -50%) scale(0.5);
-}
-
-
-.switcheroo .switcheroo__avatar {
+.switcheroo .switcheroo__avatar,
+#switcheroo-dropdown-list .switcheroo__avatar {
     position: relative;
     width: 100%;
     height: 100%;
@@ -1315,7 +1343,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__avatar img {
+.switcheroo .switcheroo__avatar img,
+#switcheroo-dropdown-list .switcheroo__avatar img {
     width: 100%;
     filter: grayscale(0) contrast(1.3) brightness(0.6);
     position: absolute;
@@ -1325,7 +1354,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__divider {
+.switcheroo .switcheroo__divider,
+#switcheroo-dropdown-list .switcheroo__divider {
     width: 2px;
     background-color: var(--white3);
     border-radius: 1px;
@@ -1334,7 +1364,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__delete {
+.switcheroo .switcheroo__delete,
+#switcheroo-dropdown-list .switcheroo__delete {
     font-weight: var(--weight2);
     font-family: var(--font3);
     display: flex;
@@ -1356,7 +1387,8 @@ a:link,a:hover,a:visited,a:active {
 }
 
 
-.switcheroo .switcheroo__squircle:hover .switcheroo__delete {
+.switcheroo .switcheroo__squircle:hover .switcheroo__delete,
+#switcheroo-dropdown-list .switcheroo__squircle:hover .switcheroo__delete {
     opacity: 1;
     transform: scale(1);
 }
