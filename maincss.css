@@ -461,7 +461,7 @@ li.fa_separator {
 #fa_right.welcome #fa_menulist {
   padding-left: 8px;
   padding-bottom: 5px;
-  display: flex !important;
+  display: none !important;
   flex-direction: row;
   flex-wrap: wrap;
   align-content: center;
