@@ -687,7 +687,7 @@ html[data-forum-layout="normal"]
    de modifier un autre bouton
 */
 
-.switcheroo__squircles > .forum-layout-toggle {
+.mainmenu-nav-container > .forum-layout-toggle {
   display: inline-flex !important;
   flex: 0 0 35px !important;
 
@@ -734,12 +734,12 @@ html[data-forum-layout="normal"]
 /* COULEUR DU BOUTON SELON LE THÈME */
 
 html[data-color-scheme="light"]
-.switcheroo__squircles > .forum-layout-toggle {
+.mainmenu-nav-container > .forum-layout-toggle {
   color: var(--text2) !important;
 }
 
 html[data-color-scheme="dark"]
-.switcheroo__squircles > .forum-layout-toggle {
+.mainmenu-nav-containers > .forum-layout-toggle {
   color: var(--text2) !important;
 }
 
@@ -752,7 +752,7 @@ html[data-color-scheme="dark"]
    - horizontale en mode normal
 */
 
-.switcheroo__squircles
+.mainmenu-nav-container
 > .forum-layout-toggle
 .fa-grip-lines {
   display: block !important;
@@ -773,7 +773,7 @@ html[data-color-scheme="dark"]
 /* Icône verticale lorsque les deux colonnes sont actives */
 
 html[data-forum-layout="columns"]
-.switcheroo__squircles
+.mainmenu-nav-container
 > .forum-layout-toggle
 .fa-grip-lines {
   transform: rotate(90deg) !important;
@@ -783,7 +783,7 @@ html[data-forum-layout="columns"]
 /* Icône horizontale lorsque la disposition normale est active */
 
 html[data-forum-layout="normal"]
-.switcheroo__squircles
+.mainmenu-nav-container
 > .forum-layout-toggle
 .fa-grip-lines {
   transform: rotate(0deg) !important;
@@ -797,13 +797,13 @@ html[data-forum-layout="normal"]
    au clavier puissent repérer le bouton sélectionné
 */
 
-.switcheroo__squircles
+.mainmenu-nav-container
 > .forum-layout-toggle:hover {
   color: var(--color2) !important;
   background: transparent !important;
 }
 
-.switcheroo__squircles
+.mainmenu-nav-container
 > .forum-layout-toggle:focus-visible {
   color: var(--color2) !important;
 
