@@ -1064,7 +1064,7 @@ a:link,a:hover,a:visited,a:active {
 
 .cinmenu li:hover,.cinqeel_gauche i:hover, .cinnavbar a:hover, .cinpa_droite2 i:hover {
     animation: tilt-n-move-shaking 1s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 1.5;
     transition: 1s;
 }
 
@@ -3549,6 +3549,7 @@ cite {
 .color-scheme-toggle, [data-color-scheme="light"] .color-scheme-toggle .dark, [data-color-scheme="dark"] .color-scheme-toggle .light {
     display: block;
     width: 100%;
+    top:150px;
 }
 
 
