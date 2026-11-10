@@ -694,14 +694,14 @@ html[data-forum-layout="normal"]
   align-items: center !important;
   justify-content: center !important;
 
-  width: 35px !important;
-  min-width: 35px !important;
-  height: 35px !important;
+  width: 40px !important;
+  min-width: 40px !important;
+  height: 40px !important;
 
   margin: 0 !important;
   padding: 0 !important;
 
-  color: var(--text2) !important;
+  color: var(--purewhite) !important;
 
   /*
      je retire tous les styles natifs du bouton pour qu'il s'intègre
@@ -735,12 +735,12 @@ html[data-forum-layout="normal"]
 
 html[data-color-scheme="light"]
 .forum-layout-toggle {
-  color: var(--text2) !important;
+  color: var(--purewhite) !important;
 }
 
 html[data-color-scheme="dark"]
 .forum-layout-toggle {
-  color: var(--text2) !important;
+  color: var(--purewhite) !important;
 }
 
 
