@@ -781,7 +781,7 @@ html[data-forum-layout="columns"]
 /* Icône horizontale lorsque la disposition normale est active */
 
 html[data-forum-layout="normal"]
- .forum-layout-toggle
+.forum-layout-toggle
 .fa-grip-lines {
   transform: rotate(0deg) !important;
 }
