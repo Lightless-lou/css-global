@@ -1064,7 +1064,7 @@ a:link,a:hover,a:visited,a:active {
 
 .cinmenu li:hover,.cinqeel_gauche i:hover, .cinnavbar a:hover, .cinpa_droite2 i:hover {
     animation: tilt-n-move-shaking 1s;
-    animation-iteration-count: 1.5;
+    animation-iteration-count: 0.5;
     transition: 1s;
 }
 
