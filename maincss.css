@@ -372,7 +372,6 @@ ul#fa_menulist, ul#notif_list {
     border: var(--bg5);
     background: var(--bg5);
     border-radius: 5px;
-    right: 10px;
     left: initial !important;
     top: 61px;
     z-index: 999;
