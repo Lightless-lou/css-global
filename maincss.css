@@ -402,6 +402,7 @@ ul#notif_list .delete {
 
 /*--- MENU BIENVENUE ---*/
 #fa_menulist {
+    display:none; 
     width: 350px;
 }
 
