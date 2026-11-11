@@ -402,7 +402,7 @@ ul#notif_list .delete {
 
 /*--- MENU BIENVENUE ---*/
 #fa_menulist {
-    display:none; 
+    display:none!important; 
     width: 350px;
 }
 
@@ -509,7 +509,7 @@ li.fa_separator {
 
 /* --- Bloc utilisateur principal --- */
 #fa_usermenu {
-  display: none;
+  display: none!important;
   background: transparent !important;
   flex-direction: row;
   flex-wrap:wrap;
