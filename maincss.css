@@ -643,7 +643,7 @@ li.fa_separator {
 #notif_list {
     width: 380px;
     padding: 5px;
-    flex-direction: column-reverse;
+    flex-direction: column;
 }
 
 
