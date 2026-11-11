@@ -1029,7 +1029,7 @@ a:link,a:hover,a:visited,a:active {
     margin: 5px 10px;
     transition: 1s;
     position: relative;
-    left: -40px;
+    left: Opx;
 }
 
 
