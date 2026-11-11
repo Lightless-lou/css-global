@@ -474,7 +474,7 @@ li.fa_separator {
 
 #fa_menulist li {
   flex-grow: 1;
-  display: flex;
+  display: none;
   gap: 2px;
   list-style: none;
   margin: 0;
@@ -524,7 +524,7 @@ li.fa_separator {
 
 
 #fa_userinfo {
-  display: flex;
+  display: none;
   align-items: flex-end;
   gap: 15px;
   padding: 10px;
@@ -679,9 +679,9 @@ li.fa_separator {
 
 
 #fa_toolbar #fa_right #notif_list li a.delete:before {
-    content: "\f12a";
+    content: "\f057";
     display: inline-block;
-    font-family: "Ionicons";
+    font-family: "fontawesome";
     font-style: normal;
     font-weight: normal;
     color: #FF4F42;
