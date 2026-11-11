@@ -34,7 +34,7 @@
 					<div class="sobpa_stafflinks">
 						                           
 						<div data-target="#modal_1" data-toggle="modal" class="pa_admin">
-							              <img src="https://64.media.tumblr.com/7e51dc07408619ab94ecb9602c0a39e1/tumblr_ovk781YJdr1s19s6do6_1280.jpg" />              
+							              <img src="https://i.pinimg.com/1200x/cc/8d/cd/cc8dcd5d3c5289a475523989850f2a0a.jpg" />              
 						</div>
 						                                      
 						<div data-target="#modal_2" data-toggle="modal" class="pa_admin">
@@ -80,7 +80,7 @@
 											<div class="SOB_staffbiobot">
 												                                                           
 												<div class="SOB_staffcomptes">
-													              <a title="Tcheo Delorme" href="https://wedareyou.forumactif.com/u113"><img src="https://i.pinimg.com/736x/f5/bb/ec/f5bbec76bb1249172e52b98e3bb76ef6.jpg" /></a><a title="Ava Serra" href="https://wedareyou.forumactif.com/u74"><img src="https://64.media.tumblr.com/ab281f7ad49eefd2a0bf0eda24949bde/ff58eed09eea89a8-6e/s640x960/a99de9d9d23a78ff924c3d7c1fd40f2097779aa1.jpg" /></a><a title="Dahlia Ombre" href="https://wedareyou.forumactif.com/u336"><img src="https://64.media.tumblr.com/8d4b17cae32a032ef48152845159feec/1e03a2f4d5a4e443-33/s1280x1920/1f37a9a441e7bd91009b8be4025566156c4aa201.jpg" /></a>            
+													              <a title="Tcheo Delorme" href="https://wedareyou.forumactif.com/u113"><img src="https://i.pinimg.com/736x/f5/bb/ec/f5bbec76bb1249172e52b98e3bb76ef6.jpg" /></a><a title="Taiichiro Nao" href="https://wedareyou.forumactif.com/u74"><img src="https://i.pinimg.com/736x/c4/bb/97/c4bb9750163e8963b2531e5519cd1cfa.jpg" /></a><a title="Dahlia Ombre" href="https://wedareyou.forumactif.com/u336"><img src="https://64.media.tumblr.com/8d4b17cae32a032ef48152845159feec/1e03a2f4d5a4e443-33/s1280x1920/1f37a9a441e7bd91009b8be4025566156c4aa201.jpg" /></a>            
 												</div>
 												                             
 											</div>
@@ -300,7 +300,7 @@
 			                             
 			<!--                ***** DEBUT NEWS *****                 -->              
 			<div class="sobpa_news">
-				                  <em> 09.11.2020 -</em> ouverture de we dare you<st>09.11.2025</st> - Joyeux anniversaire we dare you ! Cinq ans déjà avec vous tous, mercii ! <em>04.10.2026</em> - mise à jour n°68 // <st>Halloween en approche</st> pleins de petits choses à découvrir !                       
+				                  <em> 09.11.2020 -</em> ouverture de we dare you<st>09.11.2026</st> - Joyeux anniversaire we dare you ! Six ans déjà avec vous tous, mercii ! <em>11.11.2026</em> - mise à jour n°69 // <st>L'hiver vient</st>, couvrez vous !                       
 			</div>
 			                           
 			<!--                ***** FIN NEWS *****                -->                                  
@@ -325,11 +325,11 @@
 					    
 					<div class="flip-inner">
 						      
-						<div style="background-image: url('https://64.media.tumblr.com/9561f06772b1db8b0d38ed3feaaf7e59/76662c4eceed962d-6c/s640x960/e0b9af7f91f6940e66c4ff0bfe6dcf1bad60c327.jpg'); filter:grayscale(1); background-position:0% 35%;" class="flip-front">
+						<div style="background-image: url('https://64.media.tumblr.com/d85898b8386ccd629a30801d6eaab3d6/ab30e4a13f07b327-9a/s500x750/c9b4c8feab90c217e2e959a43183460ed41a092c.pnj'); filter:grayscale(1); background-position:0% 35%;" class="flip-front">
 						</div>
 						      
 						<div class="flip-back">
-							        <bloom>Manue W.</bloom>        <bm>rpgiste du mois</bm>      
+							        <bloom>Birdy D.</bloom>        <bm>top maxi rp</bm>      
 						</div>
 						    
 					</div>
@@ -343,7 +343,7 @@
 						</div>
 						      
 						<div class="flip-back">
-							        <bloom>Dahlia O.</bloom>        <bm>posteur du mois</bm>      
+							        <bloom>Dahlia O.</bloom>        <bm>top mini rp</bm>      
 						</div>
 						    
 					</div>
@@ -357,7 +357,7 @@
 				                         
 				<div style="" class="sobpa_plbloc">
 					           <a href="https://wedareyou.forumactif.com/f12-i-need-your-love">                   					<div style="" class="sobpa_pltitre">
-						              <ion-icon name="extension-puzzle-outline"></ion-icon> les scénarios recherchés 
+						              <i class="fa-solid fa-puzzle-piece"></i> les scénarios recherchés 
 					</div>  </a>                      
 				</div>
 				           
